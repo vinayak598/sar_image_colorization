@@ -88,9 +88,6 @@ sar_image_colorization/
 ## 👨‍💻 Contributors
 
 - **Josyula Venkata Ramachandra Vinayak** (Team Lead)
-- K Sai Varshith  
-- L Lokesh  
-- 🧑‍🏫 **Guide**: Mr. M. Praveen  
 - 🏫 **Department of Computer Science and Engineering**, AVN Institute of Engineering and Technology
 
 ## 📃 License
